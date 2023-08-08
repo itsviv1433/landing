@@ -4,7 +4,7 @@
 
 ## Description
 
-This is an example of sample UI replication from the source https://dribbble.com/shots/18371803-Marketing-Digital-Marketing-Landing-Page
+This is a project of sample UI replication from the source `https://dribbble.com/shots/18371803-Marketing-Digital-Marketing-Landing-Page`
 
 ## Table of Contents
 
@@ -17,14 +17,14 @@ This is an example of sample UI replication from the source https://dribbble.com
 
 1. Clone the repository to your local machine using `git clone`.
 2. Navigate to the project directory.
-3. Set up a local development server (e.g., XAMPP, WAMP) if the project requires a server.
-4. Create a database named `landing` and import the file 'db/landing.sql' into your database.
-5. Change the username and password for your database in 'api/config.php' file.
+3. Set up a local development server (e.g., XAMPP, WAMP).
+4. Create a MYSQL database named `landing` and import the file `db/landing.sql` into your database.
+5. Change the username and password of your database in `api/config.php` file.
 6. Open the `index.html` file in your web browser using localhost to view the project.
 
 ## Usage
 
-Run the index.html file in any browser.
+Run the index.html file in any browser on localhost.
 
 ## Technologies Used
 
